@@ -52,14 +52,21 @@
    
     background-color: rgb(96, 99, 126);
    }
-   a{
+  u{
+      display: inline;
        color: aqua;
-        font-size: 12px;
+       font-size: 12px;
    }
    p{
+       display: inline;
        color:lightblue;
        font-size: 12px;
    }
    h2{
        color: lightblue;
+   }
+   h5{
+     display: inline;
+       font-size: 12px;
+       color: cornflowerblue
    }
